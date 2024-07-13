@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºËŸ¹
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³ô 
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ–Åøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+
+java:S4165C"dRemove this useless assignment; "modelo" already holds the assigned value along all execution paths.(‚š£Ëøÿÿÿÿ
+d	java:S116"ORename this field "aÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÍûÝ
+G
+java:S1172B",Remove this unused method parameter "model".( éà£ÿÿÿÿÿ
+c	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³ô 
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ–Åøÿÿÿÿ
+J
+java:S1656C"/Remove or correct this useless self-assignment.(‚š£Ëøÿÿÿÿ

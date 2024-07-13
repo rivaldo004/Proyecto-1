@@ -1,0 +1,24 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÙ˜Äüÿÿÿÿ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏ¤Æÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+l	java:S116"RRename this field "diseÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Á¦øùÿÿÿÿ
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(ÉÙ˜Äüÿÿÿÿ
+I
+java:S1144o".Remove this unused private "setGenero" method.(†û«™şÿÿÿÿ
+c	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šú¨¨
+E	java:S106C"+Replace this use of System.out by a logger.(¿©Œ”ûÿÿÿÿ
+E	java:S106K"+Replace this use of System.out by a logger.(£êÚûÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÏ¤Æÿÿÿÿÿ
+@	java:S106S"+Replace this use of System.out by a logger.(ˆÎ‡Ù
+@	java:S106["+Replace this use of System.out by a logger.(Œóì—
+@	java:S106c"+Replace this use of System.out by a logger.(»ÿÁ÷
+E	java:S106k"+Replace this use of System.out by a logger.(×·ÿ’üÿÿÿÿ
+E	java:S106s"+Replace this use of System.out by a logger.(²°şÖşÿÿÿÿ
+E	java:S106{"+Replace this use of System.out by a logger.(ëÿ’”øÿÿÿÿ
+@	java:S106ƒ"+Replace this use of System.out by a logger.(Ù±Á~
+F	java:S106Œ"+Replace this use of System.out by a logger.(ÑŠÓÿÿÿÿÿ
+F	java:S106•"+Replace this use of System.out by a logger.(µ¬ˆóøÿÿÿÿ
+A	java:S106˜"+Replace this use of System.out by a logger.(´ü¹
+F	java:S106 "+Replace this use of System.out by a logger.(ëÿ’”øÿÿÿÿ

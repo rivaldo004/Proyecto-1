@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+E	java:S106"+Replace this use of System.out by a logger.(¤²ïÂşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(€öÁã
+E	java:S106,"+Replace this use of System.out by a logger.(ÖàÖ•üÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(ÖàÖ•üÿÿÿÿ
+E
+java:S1068#"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ
+E
+java:S10681"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ

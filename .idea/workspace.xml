@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d436c335-ee96-4a61-9b28-fb219d473577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyec/Accesorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Cosmetico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Ropa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyec/Transporte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyec/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyec/.idea/proyec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proyec/.idea/proyec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyec/Cosmetico.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

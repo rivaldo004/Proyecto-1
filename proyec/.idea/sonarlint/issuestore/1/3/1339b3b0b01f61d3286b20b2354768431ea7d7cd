@@ -1,0 +1,15 @@
+
+0
+java:S1220""Move this file to a named package.
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(’‚ºØûÿÿÿÿ
+I
+java:S1144D".Remove this unused private "setGenero" method.(†û«™şÿÿÿÿ
+M
+java:S1172"2Remove this unused method parameter "existencias".(’‚ºØûÿÿÿÿ
+E	java:S106H"+Replace this use of System.out by a logger.(²°şÖşÿÿÿÿ
+E	java:S106\"+Replace this use of System.out by a logger.(ëÿ’”øÿÿÿÿ
+?	java:S106h"+Replace this use of System.out by a logger.(Ù±Á~
+E	java:S106z"+Replace this use of System.out by a logger.(ÑŠÓÿÿÿÿÿ
+F	java:S106ƒ"+Replace this use of System.out by a logger.(µ¬ˆóøÿÿÿÿ
+A	java:S106†"+Replace this use of System.out by a logger.(´ü¹
+F	java:S106"+Replace this use of System.out by a logger.(ëÿ’”øÿÿÿÿ
